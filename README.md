@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Retonliu
-- 👀 I’m interested in 
-- 🌱 I’m currently learning typescript and node
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning TypeScript and Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 reton@outlook.com
 
